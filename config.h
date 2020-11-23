@@ -20,7 +20,7 @@
 
 #define TX 1
 #define RX 0
-
+#define RXx 0
 #define data_lenght 800
 
 
